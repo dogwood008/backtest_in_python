@@ -7,6 +7,7 @@ To test your trading strategy in docker. It exports buy/sell timing, money amoun
 
 ## How to set up
 
+1. Put `backtrader_sample_strategy.ipynb` into `~/jupyter/`
 1. Download forex historical data from [here](http://www.fxdd.com/bm/jp/forex-resources/forex-trading-tools/metatrader-1-minute-data/)
 1. Convert .hst file into .csv by [this program](http://mechanicalforex.com/2015/12/converting-mt4-binary-history-files-hst-to-csv-using-a-python-script.html)
 
