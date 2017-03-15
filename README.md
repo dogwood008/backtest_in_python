@@ -18,4 +18,11 @@ To test your trading strategy in docker. It exports buy/sell timing, money amoun
 1. Run `./boot.sh`
 1. Access [http://localhost:8001](http://localhost:8001) and input `password` in password textbox
 1. Run `backtrader_sample_strategy.ipynb` by `Cell -> Run All`
-  - Change `datapath` as you named csv file
+  1. Change `datapath` as you named csv file
+
+
+## Sample
+
+[notebook](https://github.com/dogwood008/backtest_in_python/blob/master/backtrader_sample_strategy.ipynb)
+
+![graph](sample.png)
